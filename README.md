@@ -14,7 +14,7 @@ A repository to document and track my progress in studying C#.
 
 ## Learning (Youtube, Books, Courses Free - Pay, etc...)
 
-[![https://learn.microsoft.com/en-us/training/modules/csharp-write-first/](https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg)]() Write your first code using C# (Get started with C#, Part 1)
+[![https://learn.microsoft.com/en-us/training/modules/csharp-write-first/](https://learn.microsoft.com/en-us/training/achievements/get-started-c-sharp-part-1.svg)](https://learn.microsoft.com/en-us/training/modules/csharp-write-first/) Write your first code using C# (Get started with C#, Part 1)
 
 
 ## About the Project
