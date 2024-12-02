@@ -1,0 +1,30 @@
+C:\Users\danie\OneDrive\Desktop\C#\bin\Debug\net9.0\C#.exe
+C:\Users\danie\OneDrive\Desktop\C#\bin\Debug\net9.0\C#.deps.json
+C:\Users\danie\OneDrive\Desktop\C#\bin\Debug\net9.0\C#.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\C#\bin\Debug\net9.0\C#.dll
+C:\Users\danie\OneDrive\Desktop\C#\bin\Debug\net9.0\C#.pdb
+C:\Users\danie\OneDrive\Desktop\C#\obj\Debug\net9.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\C#\obj\Debug\net9.0\C#.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\C#\obj\Debug\net9.0\C#.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\C#\obj\Debug\net9.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\C#\obj\Debug\net9.0\C#.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\C#\obj\Debug\net9.0\C#.dll
+C:\Users\danie\OneDrive\Desktop\C#\obj\Debug\net9.0\refint\C#.dll
+C:\Users\danie\OneDrive\Desktop\C#\obj\Debug\net9.0\C#.pdb
+C:\Users\danie\OneDrive\Desktop\C#\obj\Debug\net9.0\C#.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\C#\obj\Debug\net9.0\ref\C#.dll
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\bin\Debug\net9.0\C#.exe
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\bin\Debug\net9.0\C#.deps.json
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\bin\Debug\net9.0\C#.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\bin\Debug\net9.0\C#.dll
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\bin\Debug\net9.0\C#.pdb
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\obj\Debug\net9.0\C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\obj\Debug\net9.0\C#.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\obj\Debug\net9.0\C#.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\obj\Debug\net9.0\C#.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\obj\Debug\net9.0\C#.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\obj\Debug\net9.0\C#.dll
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\obj\Debug\net9.0\refint\C#.dll
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\obj\Debug\net9.0\C#.pdb
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\obj\Debug\net9.0\C#.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\C#\Write your first C# code\obj\Debug\net9.0\ref\C#.dll
