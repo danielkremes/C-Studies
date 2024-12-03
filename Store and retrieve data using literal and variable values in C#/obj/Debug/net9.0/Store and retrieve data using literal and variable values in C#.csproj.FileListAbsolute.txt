@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\bin\Debug\net9.0\Store and retrieve data using literal and variable values in C#.exe
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\bin\Debug\net9.0\Store and retrieve data using literal and variable values in C#.deps.json
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\bin\Debug\net9.0\Store and retrieve data using literal and variable values in C#.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\bin\Debug\net9.0\Store and retrieve data using literal and variable values in C#.dll
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\bin\Debug\net9.0\Store and retrieve data using literal and variable values in C#.pdb
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\obj\Debug\net9.0\Store and retrieve data using literal and variable values in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\obj\Debug\net9.0\Store and retrieve data using literal and variable values in C#.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\obj\Debug\net9.0\Store and retrieve data using literal and variable values in C#.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\obj\Debug\net9.0\Store and retrieve data using literal and variable values in C#.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\obj\Debug\net9.0\Store and retrieve data using literal and variable values in C#.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\obj\Debug\net9.0\Store and retrieve data using literal and variable values in C#.dll
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\obj\Debug\net9.0\refint\Store and retrieve data using literal and variable values in C#.dll
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\obj\Debug\net9.0\Store and retrieve data using literal and variable values in C#.pdb
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\obj\Debug\net9.0\Store and retrieve data using literal and variable values in C#.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\C#\Store and retrieve data using literal and variable values in C#\obj\Debug\net9.0\ref\Store and retrieve data using literal and variable values in C#.dll
