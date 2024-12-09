@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\bin\Debug\net9.0\Perform basic operations on numbers in C#.exe
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\bin\Debug\net9.0\Perform basic operations on numbers in C#.deps.json
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\bin\Debug\net9.0\Perform basic operations on numbers in C#.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\bin\Debug\net9.0\Perform basic operations on numbers in C#.dll
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\bin\Debug\net9.0\Perform basic operations on numbers in C#.pdb
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\obj\Debug\net9.0\Perform basic operations on numbers in C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\obj\Debug\net9.0\Perform basic operations on numbers in C#.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\obj\Debug\net9.0\Perform basic operations on numbers in C#.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\obj\Debug\net9.0\Perform basic operations on numbers in C#.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\obj\Debug\net9.0\Perform basic operations on numbers in C#.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\obj\Debug\net9.0\Perform basic operations on numbers in C#.dll
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\obj\Debug\net9.0\refint\Perform basic operations on numbers in C#.dll
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\obj\Debug\net9.0\Perform basic operations on numbers in C#.pdb
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\obj\Debug\net9.0\Perform basic operations on numbers in C#.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\C#\Perform basic operations on numbers in C#\obj\Debug\net9.0\ref\Perform basic operations on numbers in C#.dll

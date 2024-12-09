@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\bin\Debug\net9.0\Guided project - Calculate and print student grades.exe
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\bin\Debug\net9.0\Guided project - Calculate and print student grades.deps.json
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\bin\Debug\net9.0\Guided project - Calculate and print student grades.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\bin\Debug\net9.0\Guided project - Calculate and print student grades.dll
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\bin\Debug\net9.0\Guided project - Calculate and print student grades.pdb
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\obj\Debug\net9.0\Guided project - Calculate and print student grades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\obj\Debug\net9.0\Guided project - Calculate and print student grades.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\obj\Debug\net9.0\Guided project - Calculate and print student grades.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\obj\Debug\net9.0\Guided project - Calculate and print student grades.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\obj\Debug\net9.0\Guided project - Calculate and print student grades.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\obj\Debug\net9.0\Guided project - Calculate and print student grades.dll
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\obj\Debug\net9.0\refint\Guided project - Calculate and print student grades.dll
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\obj\Debug\net9.0\Guided project - Calculate and print student grades.pdb
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\obj\Debug\net9.0\Guided project - Calculate and print student grades.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate and print student grades\obj\Debug\net9.0\ref\Guided project - Calculate and print student grades.dll
