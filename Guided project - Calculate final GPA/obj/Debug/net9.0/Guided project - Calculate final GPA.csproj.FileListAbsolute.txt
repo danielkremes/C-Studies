@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\bin\Debug\net9.0\Guided project - Calculate final GPA.exe
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\bin\Debug\net9.0\Guided project - Calculate final GPA.deps.json
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\bin\Debug\net9.0\Guided project - Calculate final GPA.runtimeconfig.json
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\bin\Debug\net9.0\Guided project - Calculate final GPA.dll
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\bin\Debug\net9.0\Guided project - Calculate final GPA.pdb
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\obj\Debug\net9.0\Guided project - Calculate final GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\obj\Debug\net9.0\Guided project - Calculate final GPA.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\obj\Debug\net9.0\Guided project - Calculate final GPA.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\obj\Debug\net9.0\Guided project - Calculate final GPA.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\obj\Debug\net9.0\Guided project - Calculate final GPA.sourcelink.json
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\obj\Debug\net9.0\Guided project - Calculate final GPA.dll
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\obj\Debug\net9.0\refint\Guided project - Calculate final GPA.dll
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\obj\Debug\net9.0\Guided project - Calculate final GPA.pdb
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\obj\Debug\net9.0\Guided project - Calculate final GPA.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Desktop\C#\Guided project - Calculate final GPA\obj\Debug\net9.0\ref\Guided project - Calculate final GPA.dll
